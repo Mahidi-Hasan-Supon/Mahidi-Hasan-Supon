@@ -1,10 +1,32 @@
-![MasterHead](https://europeanit-inst.com/wp-content/uploads/2022/07/MERN-Stack-Development-scaled.jpg)
+[![MasterHead](https://europeanit-inst.com/wp-content/uploads/2022/07/MERN-Stack-Development-scaled.jpg)]
 
 <h1 align="center">Hi 👋, I'm Mahidi Hasan Supon</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+
+<h3 align="center">I'm a dedicated MERN Stack Developer from Bangladesh who loves building modern, scalable, and user-friendly web applications. I focus on writing clean code, learning new technologies, and turning ideas into real products.</h3>
+
+
+
+## 💡 What I Do
+
+
+⚡ Build responsive and dynamic full-stack web apps
+
+🛠️ Work with MongoDB, Express, React, Node.js
+
+🔐 Implement authentication, authorization & secure APIs
+
+🎨 Create smooth UI/UX with modern frontend tools
+
+☁️ Deploy projects on Netlify, Vercel & Render
+
+
+ 
+
+## Talking about Personal Stuff:
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCoQlHe5pKITrFDP4-oXB_p-j9G6Cqa-6xkxgZeaAg8aDeTEk6_kV-C15LqXuKlowPZ4&usqp=CAU"> 
- 
+
+
 - 🌱 I’m currently learning **React, Nodejs, Express, MongoDB**
 
 - 💬 Ask me about **MERN**
@@ -12,6 +34,9 @@
 - 📫 How to reach me **mahidihasansupon@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
