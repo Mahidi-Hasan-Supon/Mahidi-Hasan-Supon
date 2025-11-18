@@ -1,4 +1,4 @@
-[![MasterHead](https://europeanit-inst.com/wp-content/uploads/2022/07/MERN-Stack-Development-scaled.jpg)]
+![MasterHead](https://europeanit-inst.com/wp-content/uploads/2022/07/MERN-Stack-Development-scaled.jpg)
 
 <h1 align="center">Hi 👋, I'm Mahidi Hasan Supon</h1>
 
