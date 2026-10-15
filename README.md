@@ -17,7 +17,7 @@
 ## 🚀 About Me
 <img align="right" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif">
 
-- Passionate **MERN Stack Developer** from Bangladesh  
+- Passionate **Full Stack Developer** from Bangladesh  
 - Currently mastering **Next.js 14, TypeScript, Prisma & Redux**  
 - I build fast, secure & beautiful full-stack applications  
 - Love clean architecture, performance optimization & pixel-perfect UI  
