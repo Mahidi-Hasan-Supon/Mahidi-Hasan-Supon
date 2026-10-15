@@ -29,6 +29,35 @@
 
 <br><br><br>
 
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,redux,bootstrap" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Backend Skills" />
+</p>
+
+### 🗄️ Database & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" alt="Database and Services" />
+</p>
+
+### 🚀 DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,git,github" alt="DevOps and Deployment Tools" />
+</p>
+
+### 🧰 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,photoshop,illustrator" alt="Tools and Design" />
+</p>
+
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
