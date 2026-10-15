@@ -1,4 +1,3 @@
-<img src="https://europeanit-inst.com/wp-content/uploads/2022/07/MERN-Stack-Development-scaled.jpg" alt="Full-Stack Developer " style="border-radius:15px; width:100%; max-height:400px; object-fit:cover;">
 <img src="https://raw.githubusercontent.com/Mahidi-Hasan-Supon/Mahidi-Hasan-Supon/main/github.jpg" alt="Full-Stack Developer " style="border-radius:15px; width:100%; max-height:400px; object-fit:cover;">
 
 <div align="center">
