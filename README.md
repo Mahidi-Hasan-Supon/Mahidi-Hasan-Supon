@@ -1,4 +1,5 @@
-<img src="https://europeanit-inst.com/wp-content/uploads/2022/07/github.jpg" alt="Full-Stack Developer " style="border-radius:15px; width:100%; max-height:400px; object-fit:cover;">
+<img src="https://europeanit-inst.com/wp-content/uploads/2022/07/MERN-Stack-Development-scaled.jpg" alt="Full-Stack Developer " style="border-radius:15px; width:100%; max-height:400px; object-fit:cover;">
+<img src="https://raw.githubusercontent.com/Mahidi-Hasan-Supon/Mahidi-Hasan-Supon/main/github.jpg" alt="Full-Stack Developer " style="border-radius:15px; width:100%; max-height:400px; object-fit:cover;">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mahidi+Hasan+Supon;Full+Stack+Developer+%F0%9F%94%A5;Building+Scalable+%26+Modern+Web+Apps;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
