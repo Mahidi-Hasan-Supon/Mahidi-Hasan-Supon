@@ -30,6 +30,7 @@
 <br><br><br>
 
 
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🎨 Frontend Development
@@ -58,16 +59,7 @@
 </p>
 
 
-## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,redux,prisma,firebase,git,github,vscode,figma,postman" />
-  </a>
-</p>
-
-### Others I work with:
-`JavaScript` `HTML5` `CSS3` `Bootstrap` `Material UI` `Docker` `Vercel` `Render` `Netlify` `Photoshop` `Illustrator`
 
 <br>
 
