@@ -17,6 +17,8 @@
 ## 🚀 About Me
 <img align="right" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif">
 
+
+
 <ul>
   <li>🇧🇩 Aspiring <strong>Full Stack Developer</strong> from Bangladesh, passionate about building modern web applications.</li>
   <li>🚀 Currently exploring <strong>Next.js, TypeScript, Prisma, and Redux</strong> to build scalable, high-performance solutions.</li>
