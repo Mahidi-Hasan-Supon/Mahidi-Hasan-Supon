@@ -65,18 +65,36 @@
 
 ## 🔥 GitHub Stats
 
+
+## 🔥 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahidi-hasan-supon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahidi-hasan-supon&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=mahidi-hasan-supon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    alt="Mahidi Hasan Supon's GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahidi-hasan-supon&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahidi-hasan-supon&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mahidi-hasan-supon&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahidi-hasan-supon&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="contribution graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mahidi-hasan-supon&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph"
+    alt="GitHub Contribution Activity Graph"
+  />
 </div>
+
 
 <br>
 
